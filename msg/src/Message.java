@@ -3,7 +3,6 @@ class Message {
     String expediteur;
     Date dateEnvoi;
 
-
     public Message(String contenu, String expediteur, Date dateEnvoi) {
         this.contenu = contenu;
         this.expediteur = expediteur;
